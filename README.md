@@ -1,7 +1,6 @@
 # Contacts Management Teams App
 
-A sample **Microsoft Teams React application** built for internal **training and sharing sessions** in our development / IT department.  
-This project demonstrates how to integrate a modern React frontend with the Microsoft Teams platform — focusing on how to build, configure, and deploy a **Contacts Management App** using Teams SDK, Fluent UI, and an existing backend service.
+A sample **Microsoft Teams React application** built for internal **training and sharing sessions** in our development / IT department This project demonstrates how to integrate a modern React frontend with the Microsoft Teams platform — focusing on how to build, configure, and deploy a **Contacts Management App** using Teams SDK, Fluent UI, and an existing backend service.
 
 ---
 
