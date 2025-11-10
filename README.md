@@ -54,14 +54,13 @@ npm install
 # or
 bun install
 ```
-&emsp; &emsp; &nbsp;run it locally
+run it locally
 ```bash
 npm run start
 # or
 bun run start
 ```
-&emsp; &emsp; &nbsp;This will start the local development server and open the app in your browser. <br>
-&emsp; &emsp; &nbsp;If you’re using the Teams Toolkit, you can also run directly inside Teams.
+This will start the local development server and open the app in your browser. If you’re using the Teams Toolkit, you can also run directly inside Teams.
 
 4. Bonus: Working with ngrok for Public Preview.
     
