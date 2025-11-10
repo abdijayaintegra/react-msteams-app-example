@@ -79,7 +79,7 @@ ngrok http 3000
 
 ## Credits
 
-The backend API used in this training is adapted from the open community project by Eko Kurniawan Khannedy — [GitHub: Eko Kurniawan Khannedy - Technical Architect at BliBli.com](https://github.com/khannedy).
+The backend API used in this projects is adapted from the open community project by Eko Kurniawan Khannedy — [GitHub: Eko Kurniawan Khannedy - Technical Architect at BliBli.com](https://github.com/khannedy).
 
 All rights and credit for the backend logic belong to him and the contributors of that repository.
 
